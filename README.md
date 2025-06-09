@@ -21,7 +21,7 @@
 
 1. Clone the repository:
  
-   git clone https://github.com/yourusername/Calcultorprodigy.git
+   git clone [https://github.com/yourusername/Calcultorprodigy.git](https://github.com/imrahul16/PRODIGY_AD_01.git)
 
 
 2. Open the project in **Android Studio**.
