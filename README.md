@@ -51,4 +51,5 @@ Calcultorprodigy/
 ## 💡 Author
 
 * **Rahul Dutta**
+* [LinkedIn](https://www.linkedin.com/in/imrahul16) • 
 
